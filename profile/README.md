@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=.github&theme=light)
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=.github&theme=dark)
 
 ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=openlab-x&theme=dark)
   - [Made With GitHubViewsCounter](https://github.com/openlab-x/GitHubViewsCounter)
