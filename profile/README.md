@@ -1,13 +1,24 @@
+## Tools & Apps
 
+| | Project | Description | Stack | Stats |
+|:---:|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/openlab-x/GithubFlareStats/main/logo/logo_v1_0_2.png" height="40"> | [GithubFlareStats](https://github.com/openlab-x/GithubFlareStats) | Dynamic GitHub stats image generator | Python / Flask | [![Stars](https://img.shields.io/github/stars/openlab-x/GithubFlareStats?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/GithubFlareStats/stargazers) [![Version](https://img.shields.io/github/v/release/openlab-x/GithubFlareStats?style=flat&color=3fb950&labelColor=0d1117&label=release)](https://github.com/openlab-x/GithubFlareStats/releases) [![Date](https://img.shields.io/github/release-date/openlab-x/GithubFlareStats?style=flat&color=8b949e&labelColor=0d1117&label=released)](https://github.com/openlab-x/GithubFlareStats/releases) |
+| <img src="https://raw.githubusercontent.com/openlab-x/ReadMeX/main/logo/logo_v1.png" height="40"> | [ReadMeX](https://github.com/openlab-x/ReadMeX) | README editor with live preview and export | Python / Flask | [![Stars](https://img.shields.io/github/stars/openlab-x/ReadMeX?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/ReadMeX/stargazers) [![Version](https://img.shields.io/github/v/release/openlab-x/ReadMeX?style=flat&color=3fb950&labelColor=0d1117&label=release)](https://github.com/openlab-x/ReadMeX/releases) [![Date](https://img.shields.io/github/release-date/openlab-x/ReadMeX?style=flat&color=8b949e&labelColor=0d1117&label=released)](https://github.com/openlab-x/ReadMeX/releases) |
+| <img src="https://raw.githubusercontent.com/openlab-x/OpenQRCode/main/screenshots/logo_v1.png" height="40"> | [OpenQRCode](https://github.com/openlab-x/OpenQRCode) | Cross-platform QR code generator and scanner | Flutter / Dart | [![Stars](https://img.shields.io/github/stars/openlab-x/OpenQRCode?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/OpenQRCode/stargazers) [![Version](https://img.shields.io/github/v/release/openlab-x/OpenQRCode?style=flat&color=3fb950&labelColor=0d1117&label=release)](https://github.com/openlab-x/OpenQRCode/releases) [![Date](https://img.shields.io/github/release-date/openlab-x/OpenQRCode?style=flat&color=8b949e&labelColor=0d1117&label=released)](https://github.com/openlab-x/OpenQRCode/releases) |
+| <img src="https://raw.githubusercontent.com/openlab-x/OEditorX/main/static/images/ok.png" height="40"> | [OEditorX](https://github.com/openlab-x/OEditorX) | Web-based code editor with 37 themes and syntax highlighting | JavaScript | [![Stars](https://img.shields.io/github/stars/openlab-x/OEditorX?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/OEditorX/stargazers) [![Version](https://img.shields.io/github/v/release/openlab-x/OEditorX?style=flat&color=3fb950&labelColor=0d1117&label=release)](https://github.com/openlab-x/OEditorX/releases) [![Date](https://img.shields.io/github/release-date/openlab-x/OEditorX?style=flat&color=8b949e&labelColor=0d1117&label=released)](https://github.com/openlab-x/OEditorX/releases) |
+| <img src="https://placehold.co/40x40/000000/ffffff?text=soon" height="40"> | [OCompilerX](https://github.com/openlab-x/OCompilerX) | Multi-language compiler and code runner | Python | [![Stars](https://img.shields.io/github/stars/openlab-x/OCompilerX?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/OCompilerX/stargazers) [![Status](https://img.shields.io/badge/status-in%20development-d29922?style=flat&labelColor=0d1117)](https://github.com/openlab-x/OCompilerX) |
+| <img src="https://placehold.co/40x40/000000/ffffff?text=soon" height="40"> | [OpenCircuitX](https://github.com/openlab-x/OpenCircuitX) | Circuit design and HDL IDE for digital hardware | C++ / wxWidgets | [![Stars](https://img.shields.io/github/stars/openlab-x/OpenCircuitX?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/OpenCircuitX/stargazers) [![Status](https://img.shields.io/badge/status-in%20development-d29922?style=flat&labelColor=0d1117)](https://github.com/openlab-x/OpenCircuitX) |
+| <img src="https://placehold.co/40x40/000000/ffffff?text=soon" height="40"> | [ClaimVisionX](https://github.com/openlab-x/ClaimVisionX) | AI-powered claim analysis and verification | Python | [![Stars](https://img.shields.io/github/stars/openlab-x/ClaimVisionX?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/ClaimVisionX/stargazers) [![Status](https://img.shields.io/badge/status-coming%20soon-6e7681?style=flat&labelColor=0d1117)](https://github.com/openlab-x/ClaimVisionX) |
 
-<!--
+---
 
+## Python Packages
 
-**Here are some ideas to get you started:**
+Independent packages published to [PyPI](https://pypi.org/user/openlabx). Coming soon.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Flutter Packages
+
+Independent packages published to [pub.dev](https://pub.dev/publishers/openlabx.com). Coming soon.
+
