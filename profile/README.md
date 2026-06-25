@@ -14,11 +14,15 @@
 
 ## Python Packages
 
-Independent packages published to [PyPI](https://pypi.org/user/openlabx). Coming soon.
+Independent packages published to the [OpenLabX organization on PyPI](https://pypi.org/org/OpenLabX/).
+
+| | Package | Description | Stack | Stats |
+|:---:|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/openlab-x/pipestage/main/assets/logo.png" height="40"> | [pipestage](https://github.com/openlab-x/pipestage) | Async data pipelines with safe staged processing and bounded concurrency | Python | [![Stars](https://img.shields.io/github/stars/openlab-x/pipestage?style=flat&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/openlab-x/pipestage/stargazers) [![Version](https://img.shields.io/github/v/release/openlab-x/pipestage?style=flat&color=3fb950&labelColor=0d1117&label=release)](https://github.com/openlab-x/pipestage/releases) [![PyPI](https://img.shields.io/badge/pypi-soon-6e7681?style=flat&labelColor=0d1117)](https://pypi.org/org/OpenLabX/) [![Date](https://img.shields.io/github/release-date/openlab-x/pipestage?style=flat&color=8b949e&labelColor=0d1117&label=released)](https://github.com/openlab-x/pipestage/releases) |
 
 ---
 
 ## Flutter Packages
 
-Independent packages published to [pub.dev](https://pub.dev/publishers/openlabx.com). Coming soon.
+Independent packages published to [pub.dev](https://pub.dev/publishers/openlabx.com/packages). Coming soon.
 
